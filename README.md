@@ -14,7 +14,7 @@ Analysis of customer behavior, retention, and lifetime value for an e-commerce c
 - Assigned customers to High, Mid, and Low-value segments based on their LTV
 - Calculated key metrics: total revenue, average per customer revenue by segment
 
-🖥️ SQL Query: [1_customer_segmentation](/Scripts/1_customer_segmentation.sql)
+🖥️ SQL Query: [1_customer_segmentation](/1_customer_segmentation.sql)
 
 **📉 Visualization:**
 
@@ -36,7 +36,7 @@ Analysis of customer behavior, retention, and lifetime value for an e-commerce c
 - Tracked revenue and customer count per cohort
 - Analyzed customer retention at a cohort level
 
-🖥️ Query: [2_cohort_analysis.sql](/Scripts/2_cohort_analysis.sql)
+🖥️ Query: [2_cohort_analysis.sql](/2_cohort_analysis.sql)
 
 **📉 Visualizations:**
 
@@ -56,7 +56,7 @@ Analysis of customer behavior, retention, and lifetime value for an e-commerce c
 
 ### 3. Customer Retention
 
-🖥️ Query: [3_retention_analysis.sql](/Scripts/3_retention_analysis.sql)
+🖥️ Query: [3_retention_analysis.sql](/3_retention_analysis.sql)
 
 **📉 Visualization:**
 
