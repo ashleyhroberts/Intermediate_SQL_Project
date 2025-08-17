@@ -40,9 +40,9 @@ Analysis of customer behavior, retention, and lifetime value for an e-commerce c
 
 **📉 Visualizations:**
 
-![Cohort_Analysis](/Images/2_Cohort_Revenue.png)
+![Cohort_Analysis](/images/2_Cohort_Revenue.png)
 
-![Revenue_and_Customers](/Images/2_revenue_and_customers.png)
+![Revenue_and_Customers](/images/2_revenue_and_customers.png)
 
 📊**Key Findings:**
 - Customer revenue is declining, older cohorts (2016-2019) spent ~$2,800+, while 2024 cohort spending dropped to ~$1,970.
