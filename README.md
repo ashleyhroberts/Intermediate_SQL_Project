@@ -12,7 +12,7 @@ Analysis of customer behavior, retention, and lifetime value for an e-commerce c
 ### 1. Customer Segmentation Analysis
 - Categorized customers based on total lifetime value (LTV), or total revenue generated
 - Assigned customers to High, Mid, and Low-value segments based on their LTV
-- Calculated key metrics: total revenue, average per customer revenue by segment
+- Calculated key metrics: total revenue, average per-customer-revenue by segment
 
 🖥️ SQL Query: [1_customer_segmentation](/1_customer_segmentation.sql)
 
